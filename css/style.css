@@ -51,23 +51,23 @@ Website :	www.themefisher.com
 @import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500");
 body {
   line-height: 1.5;
-  font-family: "Poppins", sans-serif;
+  font-family: "Poppins", "Microsoft JhengHei", sans-serif;
   -webkit-font-smoothing: antialiased;
 }
 /* body {
   line-height: 1.5;
-  font-family: "Poppins", "Microsoft JhengHei","微軟正黑體",sans-serif !important;
+  font-family: "Poppins", "Microsoft JhengHei", "Microsoft JhengHei","微軟正黑體",sans-serif !important;
   -webkit-font-smoothing: antialiased;
 } */
 
 p {
-  font-family: "Poppins", sans-serif;
+  font-family: "Poppins", "Microsoft JhengHei", sans-serif;
   color: #757575;
   font-size: 15px;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Poppins", sans-serif;
+  font-family: "Poppins", "Microsoft JhengHei", sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
